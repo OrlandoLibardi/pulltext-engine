@@ -1,0 +1,25 @@
+{
+  "name": "@pulltext/engine",
+  "version": "1.0.0",
+  "description": "Motor de extração de layout e texto para a API REST do Figma",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "figma",
+    "layout",
+    "extractor",
+    "typescript"
+  ],
+  "author": "Orlando Libardi",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
