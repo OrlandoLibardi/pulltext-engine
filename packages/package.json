@@ -1,6 +1,6 @@
 {
   "name": "@pulltext/engine",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "description": "Motor de extração de layout e texto para a API REST do Figma",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
